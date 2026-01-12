@@ -1,3 +1,6 @@
+## Preview
+https://main.d1tq7p7xja4slk.amplifyapp.com/
+
 ## Deploy
 
 Upload the **contents of `dist/`** so your host serves:
